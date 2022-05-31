@@ -1,2 +1,2 @@
-# Digital-EcoLife-
+# Digital-EcoLife
 A project towards Environmental Sustainability 
